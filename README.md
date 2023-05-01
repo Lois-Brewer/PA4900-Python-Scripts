@@ -1,5 +1,5 @@
 # PA4900 Python Scripts
-Contains all the relevant files that I have used to modify data and put it in the correct format.
+### Contains all the relevant files that I have used to modify data and put it in the correct format.
 
 Brightener.py brightens every image in a set directory. This was used to brighten the CD maps from FCCDN and AFC3DNet.
 
